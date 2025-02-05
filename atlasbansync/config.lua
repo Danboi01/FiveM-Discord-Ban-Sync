@@ -1,6 +1,6 @@
 Config = {
-    GuildID = 123,
-    Token = 'TOKEN',
-    RequireDiscordToJoin = false,
-    BanMessage = "You are banned from this Discord server!"
+    Token = "YOUR_DISCORD_BOT_TOKEN",
+    GuildID = "YOUR_DISCORD_SERVER_ID",
+    RequireDiscordToJoin = true,
+    BanMessage = "[Atlas Ban Sync] You are banned from this server.",
 }
